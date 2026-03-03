@@ -4,6 +4,9 @@ Tampilan Web
 Tampilan Post pada Postman
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2839c396-ecfc-49cf-83f8-d5c29ffa033f" />
 
+Tampilan Get pada Postman
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3caf3732-0df9-4d71-8600-d772c29edf87" />
+
 Tampilan Put Pada Postman
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0df758bb-dedd-4c17-9719-b4388d89cd76" />
 
